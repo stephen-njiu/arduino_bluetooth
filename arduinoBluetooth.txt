@@ -26,3 +26,5 @@ BluetoothData=Genotronex.read();
 }
 delay(100);// prepare for next data ...
 }
+//end of the source code 
+//note that the different tasks in the void loop can be broken into separate functions
