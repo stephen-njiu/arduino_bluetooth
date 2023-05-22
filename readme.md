@@ -3,3 +3,5 @@
 ## GitHub crash course
 
 some description of the readme file 
+
+demonstrating git merge on github 
