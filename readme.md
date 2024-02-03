@@ -4,6 +4,8 @@
 
 some description of the readme file 
 
-demonstrating git merge on github 
+demonstrating git merge on GitHub 
 ..created quicktest branch
 
+## Hobbyist Mini Project
+### Featuring Bluetooth Module on an Arduino Uno
